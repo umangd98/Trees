@@ -192,7 +192,7 @@ void preOrder(node *t)
 	}
 	preOrder(t->left);
 	preOrder(t->right);
-}
+}	//preorder print
 
 main()
 {
